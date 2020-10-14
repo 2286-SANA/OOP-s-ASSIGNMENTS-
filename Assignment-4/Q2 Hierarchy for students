@@ -1,0 +1,16 @@
+/*  Question-2
+                                                STUDENTS      //base class
+                                   
+                           UndergraduateStudent            GraduateStudent
+                           -Freshman                        -DoctoralStudent
+                           -Sophomore                       -MasterStudent
+                           -Junior
+                           -Senior
+                           
+   The hierarchy contains many "is-a" (inheritance) relationships.
+   An UndergraduateStudent is a Student.
+   A GraduateStudent is a Student too.
+   Each of the classes Freshman, Sophomore, Junior, Senior is an undergraduateStudent and is a Student.
+   Each of class DoctoralStudent and MasterStudent is a Graduate and is a Student. 
+   */
+   
