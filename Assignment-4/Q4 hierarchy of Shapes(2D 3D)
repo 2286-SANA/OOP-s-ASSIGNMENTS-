@@ -1,0 +1,12 @@
+/* Question-4
+                                              Shape
+                   TwoDimensionalShape                    ThreeDimensionalShape
+            
+       Quadrilaterial    Ellipse   Triangle                 -Sphere
+       -Trapezoid        -Circle                            -Cone
+       -Parallelogram                                       -Cube
+       -Rhombus                                             -Cylinder
+       -Rectangle                                           -Prism
+       -Square    
+       ************code******** */
+       
